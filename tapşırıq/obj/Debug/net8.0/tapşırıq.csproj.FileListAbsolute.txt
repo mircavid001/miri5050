@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.AssemblyInfo.cs
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\bin\Debug\net8.0\tapşırıq.exe
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\bin\Debug\net8.0\tapşırıq.deps.json
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\bin\Debug\net8.0\tapşırıq.runtimeconfig.json
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\bin\Debug\net8.0\tapşırıq.dll
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\bin\Debug\net8.0\tapşırıq.pdb
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.dll
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\refint\tapşırıq.dll
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.pdb
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\tapşırıq.genruntimeconfig.cache
+C:\Users\pc\source\repos\tapşırıq\tapşırıq\obj\Debug\net8.0\ref\tapşırıq.dll
